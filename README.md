@@ -14,6 +14,8 @@ Welcome to *InstaClone, a fully functional and responsive **Instagram-style web 
 ## 📸 Preview
 
 > Add screenshots or screen-recorded GIFs here:
+> - Login Page
+> - ![Screenshot_25-6-2025_18465_end-to-end-intagram-clone-website onrender com](https://github.com/user-attachments/assets/926bcf92-83f5-449b-9c6f-b481fea00c9e)
 > - Home Feed
 > - ![Screenshot_25-6-2025_184524_end-to-end-intagram-clone-website onrender com](https://github.com/user-attachments/assets/7d2cd6db-fd52-4cd1-a1dd-60d8d0827b2a)
 > - Post Creation
